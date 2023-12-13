@@ -1,0 +1,11 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    grid-gap: 20px; 
+  }
+ 
+  .grid-item {
+    padding: 20px;
+    background-color: #FC6C85;
+    border: 1px solid #ccc;
+  }
